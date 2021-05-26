@@ -13,6 +13,7 @@ body {
   color: #444444;
 }
 
+
 a {
   color: #47b2e4;
 }
@@ -78,12 +79,6 @@ h6 {
   }
 }
 
-pre code {
-  
-  display: block;
-  padding: 0px;
-  border-radius: 0px;
-}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -1084,8 +1079,8 @@ section {
 
 .team .member .pic {
   overflow: hidden;
-  width: 180px;
-  height: 180px;
+  width: 50%;
+  height: 50%;
   border-radius: 50%;
 }
 
